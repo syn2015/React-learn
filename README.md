@@ -1,2 +1,2 @@
 # React-learn
-learning
+learning React
